@@ -4,7 +4,7 @@
   <title><![CDATA[pipiolog]]></title>
   <link href="http://pipio.github.com/atom.xml" rel="self"/>
   <link href="http://pipio.github.com/"/>
-  <updated>2013-01-04T21:51:53+09:00</updated>
+  <updated>2013-01-04T21:55:19+09:00</updated>
   <id>http://pipio.github.com/</id>
   <author>
     <name><![CDATA[pipio]]></name>
@@ -19,6 +19,9 @@
     <updated>2013-01-04T18:19:00+09:00</updated>
     <id>http://pipio.github.com/blog/2013/01/04/test-post</id>
     <content type="html"><![CDATA[<p>testです</p>
+
+<!--- more --->
+
 
 <figure class='code'><figcaption><span> (test.rb)</span> <a href='http://pipio.github.com/downloads/code/sample/test.rb'>download</a></figcaption>
  <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
