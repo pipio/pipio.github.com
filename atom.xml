@@ -4,7 +4,7 @@
   <title><![CDATA[pipiolog]]></title>
   <link href="http://pipio.github.com/atom.xml" rel="self"/>
   <link href="http://pipio.github.com/"/>
-  <updated>2013-01-04T23:29:13+09:00</updated>
+  <updated>2013-01-05T00:38:47+09:00</updated>
   <id>http://pipio.github.com/</id>
   <author>
     <name><![CDATA[pipio]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://pipio.github.com/blog/2013/01/05/test/"/>
+    <updated>2013-01-05T00:22:00+09:00</updated>
+    <id>http://pipio.github.com/blog/2013/01/05/test</id>
+    <content type="html"><![CDATA[<p><img src="http://distilleryimage7.instagram.com/2ca7ceb4568211e29a9c22000a1fbe09_7.jpg" title="" alt=""></p>
+]]></content>
+  </entry>
   
 </feed>
