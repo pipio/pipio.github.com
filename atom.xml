@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[pipiolog]]></title>
-  <link href="http://pipio.github.com/atom.xml" rel="self"/>
-  <link href="http://pipio.github.com/"/>
-  <updated>2013-01-14T22:03:20+09:00</updated>
-  <id>http://pipio.github.com/</id>
+  <link href="http://d.wanda.ws/atom.xml" rel="self"/>
+  <link href="http://d.wanda.ws/"/>
+  <updated>2013-01-14T22:04:08+09:00</updated>
+  <id>http://d.wanda.ws/</id>
   <author>
     <name><![CDATA[pipio]]></name>
     

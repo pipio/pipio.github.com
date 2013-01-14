@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://pipio.github.com/archives/</loc>
+        <loc>http://d.wanda.ws/archives/</loc>
         <lastmod>2013-01-14T21:53:53+09:00</lastmod>
     </url>
     <url>
-        <loc>http://pipio.github.com/blog/archives/</loc>
+        <loc>http://d.wanda.ws/blog/archives/</loc>
         <lastmod>2013-01-14T21:53:53+09:00</lastmod>
     </url>
     <url>
-        <loc>http://pipio.github.com/</loc>
+        <loc>http://d.wanda.ws/</loc>
         <lastmod>2013-01-14T21:53:53+09:00</lastmod>
     </url>
     <url>
-        <loc>http://pipio.github.com/robots.txt</loc>
+        <loc>http://d.wanda.ws/robots.txt</loc>
         <lastmod>2013-01-14T21:53:14+09:00</lastmod>
     </url>
     <url>
-        <loc>http://pipio.github.com/search.html</loc>
+        <loc>http://d.wanda.ws/search.html</loc>
         <lastmod>2013-01-14T21:53:53+09:00</lastmod>
     </url>
 </urlset>
